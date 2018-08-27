@@ -1,0 +1,26 @@
+ol {
+  margin-bottom: 1rem;
+}
+
+#what {
+  padding: 20px 5px 20px 5px;
+  height: 500px;
+  width: 500px;
+  border: 1px solid white;
+  margin: 0 auto;
+  color: white;
+  font-size: 18px;
+}
+
+#what button{
+	width: 120px;
+	height: 35px;
+	border: 1px solid white;
+	margin: 55px auto 0 auto;
+	display:block;
+}
+
+#what:focus {
+  outline: 0;
+}
+

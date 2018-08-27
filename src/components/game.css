@@ -1,0 +1,23 @@
+#gameDiv{
+	height: 500px;
+	width:500px;
+	margin:0 auto;
+	border: 1px solid white;
+}
+
+h1{	
+	text-align:center;
+	color:white;
+	margin: 25px;
+}
+
+.guessSpan{
+	width: 15px;
+	color:black;
+	height: 15px;
+	background-color: #ffa611;
+	margin:3px;
+	padding:2px;
+	font-size: 22px;
+	font-weight: bold;
+}

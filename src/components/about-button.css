@@ -1,0 +1,11 @@
+.about-btn{
+	height: 50px;
+	width: 150px;
+	color: white;
+	background-color: transparent;
+	font-size: 20px;
+	font-weight: bold;
+	border:0;
+	outline: none;
+	cursor: pointer;
+}
